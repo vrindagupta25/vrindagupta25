@@ -29,9 +29,6 @@ I'm always open to collaborating on exciting projects, particularly those that p
 
 Feel free to reach out if you want to collaborate, share ideas, or just have a chat about coding!
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Twitter:** [Your Twitter Handle, if applicable]
 
 ## Fun Fact
 

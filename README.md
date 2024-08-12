@@ -1,6 +1,4 @@
-Here's a template for a README file to introduce yourself as a professional coder on your GitHub profile:
 
----
 
 # 👋 Hi, I'm Vrinda Gupta (@vrindagupta25)
 

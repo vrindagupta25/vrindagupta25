@@ -23,7 +23,7 @@ I'm currently diving deep into Data Structures and Algorithms in Java to enhance
 
 I'm always open to collaborating on exciting projects, particularly those that push the boundaries of what code can do. Whether it's contributing to open-source projects, working on innovative web applications, or exploring new tech stacks, I'm eager to connect with like-minded developers and make an impact.
 
-## How to Reach Me
+
 
 Feel free to reach out if you want to collaborate, share ideas, or just have a chat about coding!
 
@@ -34,7 +34,7 @@ When I'm not coding, you might find me exploring new tech trends, reading about 
 
 ---
 
-Feel free to customize the email, LinkedIn, and Twitter links as needed!
+
 
 <!---
 vrindagupta25/vrindagupta25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

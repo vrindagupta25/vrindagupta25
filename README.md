@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Vrinda Gupta (@vrindagupta25)
+# 👋 Hi, I'm Vrinda Gupta 
 
 Welcome to my GitHub profile!
 

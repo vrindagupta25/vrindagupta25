@@ -1,30 +1,31 @@
 
 
-# 👋 Hi, I'm Vrinda Gupta 
+# 👋 Hi, I'm **Vrinda Gupta** 
 
 Welcome to my GitHub profile!
 
-## About Me
+### About Me
 
-I'm a passionate coder with a strong interest in exploring and mastering new technologies. My journey in the world of programming has been driven by curiosity, creativity, and a desire to build solutions that make a difference. I believe in the power of code to solve problems and improve lives, and I'm constantly seeking out opportunities to learn and grow as a developer.
+I'm a passionate and curious developer, driven by the desire to build impactful solutions. My journey has uniquely blended **data analysis** and **digital marketing** expertise with a growing focus on **cybersecurity**. I thrive on exploring new technologies and constantly pushing my limits to learn and grow.
 
-## Skills & Expertise
+### Skills & Expertise
 
-- **Programming Languages:** Java, Python, HTML, CSS, JavaScript
-- **Current Focus:** Data Structures and Algorithms (DSA) in Java, Web Development
-- **Web Development:** Frontend & Backend, Responsive Design, API Integration
-- **Tools & Technologies:** Git, GitHub, VS Code, SQL, Node.js, React, Bootstrap
+* **Programming Languages:** Python, Java, JavaScript, HTML, CSS, SQL
+* **Web Technologies:** Frontend & Backend Development, React, Node.js, RESTful APIs, Responsive Design, Bootstrap
+* **Data & Analytics:** Data Cleaning & Analysis, SQL Queries, Data Visualization
+* **Cybersecurity Interests:** Network Security Basics, Web Application Security (OWASP Top 10), Cryptography Concepts, Threat Analysis, Incident Response Fundamentals
+* **Tools & Platforms:** Git, GitHub, VS Code
+**Current Focus:** Deepening my understanding of **Data Structures and Algorithms in Java**, advancing my **Web Development** capabilities, and intensively exploring **Cybersecurity fundamentals** to bridge my analytical skills with security practices.
+### What I’m Working On
 
-## What I’m Working On
+I'm actively applying my **data analysis mindset** to **security challenges**. Currently, I'm:
+* Diving deep into **Data Structures and Algorithms (Java)** to sharpen my problem-solving for complex systems.
+* Building **dynamic and secure web applications** to enhance my full-stack capabilities, always with an eye on best security practices.
+* Engaging with **cybersecurity concepts** through practical labs and projects to understand attack vectors and defense mechanisms.
 
-I'm currently diving deep into Data Structures and Algorithms in Java to enhance my problem-solving skills. Alongside, I'm expanding my expertise in Web Development, focusing on creating dynamic and responsive web applications.
+### Let's Connect & Collaborate!
 
-## Collaboration
-
-I'm always open to collaborating on exciting projects, particularly those that push the boundaries of what code can do. Whether it's contributing to open-source projects, working on innovative web applications, or exploring new tech stacks, I'm eager to connect with like-minded developers and make an impact.
-
-
-
+I'm always keen to collaborate on impactful projects, especially those at the intersection of **security, data, and web technologies**. Whether it's contributing to open-source initiatives, tackling real-world security challenges, or exploring new tech stacks, I'm eager to connect with fellow innovators and make a difference.
 Feel free to reach out if you want to collaborate, share ideas, or just have a chat about coding!
 
 

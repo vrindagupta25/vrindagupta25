@@ -40,9 +40,9 @@ Currently focused on **DSA in Java** for robust problem-solving, **secure web de
 
 Dive into my work showcasing my skills. Details in each project's README:
 
-* **[Project 1 Name](YOUR_PROJECT_1_REPO_URL)** – *A brief, impactful description (e.g., "A Python script for log analysis and anomaly detection using data insights.").*
-* **[Project 2 Name](YOUR_PROJECT_2_REPO_URL)** – *A brief, impactful description (e.g., "Web app demonstrating secure user authentication and data handling.").*
-* **[Project 3 Name](YOUR_PROJECT_3_REPO_URL)** – *A brief, impactful description (e.g., "Digital marketing automation tool demonstrating data extraction and privacy focus.").*
+* **Project 1: College Community Hub (UPES Sarthi)** – *A collaborative web app designed for university newcomers. My role involved architecting the data models for hostel/flat search and integrating alumni feedback, leveraging my data analysis skills for structured insights*
+* **Project 2: Secure Password Generator** – *Developed a robust tool to generate highly secure and customizable passwords. This project solidifies my keen interest in practical cybersecurity applications and defensive coding.*
+* **Project 3: Marketing Campaign Insights Dashboard** – *Built a dashboard to visualize digital marketing campaign performance, focusing on key metrics and anomaly detection. This showcases my ability to extract actionable insights and ensure data integrity from my digital marketing background.*
 
 ---
 

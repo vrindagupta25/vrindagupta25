@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="YOUR_PROFILE_PHOTO_URL_HERE_OR_SIMPLY_USE_YOUR_GITHUB_AVATAR" alt="Vrinda Gupta" width="150px" height="150px" style="border-radius:50%">
+w<div align="center">
+
 </div>
 
 # 👋 Hi, I'm **Vrinda Gupta**
@@ -63,11 +63,10 @@ Dive into my work showcasing my skills. Details in each project's README:
 
 Let's collaborate on impactful projects in security, data, or web tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@EXAMPLE.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrinda-gupta-0b780a252/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrindagupta32@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_PROFILE_URL)
 [![Portfolio/Website](https://img.shields.io/badge/Portfolio-10c0a3?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PERSONAL_WEBSITE_URL_OPTIONAL)
-
----
 
 ### ❤️ Beyond the Code
 
